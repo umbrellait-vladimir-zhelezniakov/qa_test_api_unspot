@@ -23,7 +23,7 @@ def test_user_auth_unspot():
     # print(response_me.status_code)
     # print(response_me.text)
 
-    return headers  # возвращает
+    return headers  # возвращаетs
 
 
 
